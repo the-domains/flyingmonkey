@@ -1,0 +1,28 @@
+name: flyingmonkey
+favicon: null
+layout_spectrum: 0.4953663791529834
+typography_spectrum: 0.9847274080384523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.03543880651704967
+  lightness: 0.7035536472685635
+  saturation: 0.020066205877810717
+  rhythmicContrast: 0.8495385434944183
+purpose: []
